@@ -1,5 +1,5 @@
 print("This is the main file")
 
 print("Last edited by: supervisor")
-print("Edit: Created file and upload to github")
-print("Timestamp: 11:31")
+print("Edit: Second commit with edits by Supervisor")
+print("Timestamp: 11:47")
