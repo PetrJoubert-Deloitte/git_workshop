@@ -1,5 +1,5 @@
 print("This is the main file")
 
-print("Last edited by: main developer")
-print("Edit: Second edit by main developer - inline edits")
-print("Timestamp: 11:55")
+print("Last edited by: junior developer")
+print("Edit: First edit by the junior developer")
+print("Timestamp: 12:01")
