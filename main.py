@@ -1,5 +1,9 @@
+import time
+
+name = "junior developer"
+
 print("This is the main file")
 
-print("Last edited by: junior developer")
-print("Edit: First edit by the junior developer")
-print("Timestamp: 12:01")
+print("Last edited by:", name)
+print("Edit: Second line edit by the", name)
+print("Timestamp:", time.strftime("%H:%M"))
